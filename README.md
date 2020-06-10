@@ -51,3 +51,23 @@
   - 3.5 Clustering
 
   - 3.6 Summary
+
+- [chapter04. data expression and characteristic engineering](https://github.com/Myeonghan-Jeong/introduction-to-marchine-learning-with-python/blob/master/chapter04.%20data%20expression%20and%20characteristic%20engineering.ipynb)
+
+  - 4.1 Categorical variables
+
+  - 4.2 OneHotEncoder and ColumnTransformer: Handling categorical variables with scikit-learn
+
+  - 4.3 Make ColumnTransformer easily with make_column_transformer
+
+  - 4.4 Section division, Discretization, and Linear Model, Tree Model
+
+  - 4.5 Interaction and polynomial expression
+
+  - 4.6 Univariate nonlinear transform
+
+  - 4.7 Feature auto selection
+
+  - 4.8 Application of experts` knowledge
+
+  - 4.9 Summary
